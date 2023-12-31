@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwaseyifunmi
-- 👀 I’m interested in website development 
-- 🌱 I’m currently learning react and javascript
+- 👀 I’m interested in website and app
+- 🌱 I’m currently learning react and next js
 - 💞️ I’m looking to collaborate on more projects 
 - 📫 Reach me on Whatsapp: +2349063355315 
 
